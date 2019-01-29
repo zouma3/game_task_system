@@ -1,0 +1,46 @@
+<html>
+<body>
+<pre>
+<h1>ﾋﾞﾙﾄﾞのﾛｸﾞ</h1>
+<h3>
+--------------------構成: ys - Win32 Debug--------------------
+</h3>
+<h3>ｺﾏﾝﾄﾞ ﾗｲﾝ</h3>
+一時ﾌｧｲﾙ "C:\WINDOWS\TEMP\RSP71A0.TMP" を作成し、次の内容を記録します
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/ys.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Windows\ﾃﾞｽｸﾄｯﾌﾟ\作品提出\シューティング\ソース\game.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSP71A0.TMP" 
+一時ﾌｧｲﾙ "C:\WINDOWS\TEMP\RSP71A1.TMP" を作成し、次の内容を記録します
+[
+ddraw.lib dsound.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/ys.pdb" /debug /machine:I386 /out:"Debug/ys.exe" /pdbtype:sept 
+".\Debug\entry.obj"
+".\Debug\score.obj"
+".\Debug\title.obj"
+".\Debug\tool.obj"
+".\Debug\WinMain.obj"
+".\Debug\sys_task.obj"
+".\Debug\Atool.obj"
+".\Debug\Dtool.obj"
+".\Debug\Stool.obj"
+".\Debug\game.obj"
+".\Debug\game_bomb.obj"
+".\Debug\game_map.obj"
+".\Debug\game_tama.obj"
+".\Debug\game_teki.obj"
+".\Debug\Script1.res"
+]
+ｺﾏﾝﾄﾞ ﾗｲﾝ "link.exe @C:\WINDOWS\TEMP\RSP71A1.TMP" の作成中
+<h3>ｱｳﾄﾌﾟｯﾄ ｳｨﾝﾄﾞｳ</h3>
+ｺﾝﾊﾟｲﾙ中...
+game.cpp
+ﾘﾝｸ中...
+
+
+
+<h3>結果</h3>
+ys.exe - ｴﾗｰ 0、警告 0
+</pre>
+</body>
+</html>
